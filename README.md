@@ -9,6 +9,8 @@ Non sarà un pranzo formale, perciò non servono i segnaposto con i nomi, però 
 
 #### SOLUZIONE:
 
+- vado a casa della nonna
+- entro nella sala da pranzo per controllare che la tavola sia appraecchiata nel modo giusto
 - FINCHE' ci sono 2 piatti a tavola E ci sono 2 persone in sala da pranzo in piedi
 
   - ALLORA segno i piatti come contati
@@ -21,5 +23,5 @@ Non sarà un pranzo formale, perciò non servono i segnaposto con i nomi, però 
   - ALTRIMENTI
     - buon appetito
 
-(abbiamo assunto che ci fossero almeno due persone come da consegna)
-(abbiamo assunto che mancasse un piatto e non una persona, come da consegna)
+(abbiamo presupposto che ci fossero almeno due persone come da consegna)
+(abbiamo presupposto che mancasse un piatto e non una persona, come da consegna)
